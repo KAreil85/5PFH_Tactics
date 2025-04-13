@@ -1,4 +1,4 @@
-Template Data Repo
+5PFH_Tactics
 ==================
 
 [![Latest release](https://img.shields.io/github/release/BSData/5PFH_Tactics.svg?style=flat-square)](https://github.com/BSData/5PFH_Tactics/releases/latest)
